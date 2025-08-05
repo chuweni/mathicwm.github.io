@@ -7,8 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a research fellow at East China Normal University, with broad interests in applied mathematics, particularly in mathematical physics, numerical analysis/scientific computing, and quantum computing. Currently, my research primarily focuses on two areas: i) High-order unfitted finite element methods for dynamic interface problems; ii) Quantum computing for partial differential equations.
+I have broad interests in applied mathematics, particularly in mathematical physics, numerical analysis/scientific computing, and quantum computing. Currently, my research primarily focuses on two areas:
+- high-order unfitted finite element methods for dynamic interface problems;
+- quantum computing for partial differential equations.
 
+You can contact me by email: cwma@math.ecnu.edu.cn / chuwenii@lsec.cc.ac.cn
 
 Educations
 ==
